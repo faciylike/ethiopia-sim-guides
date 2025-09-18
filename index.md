@@ -65,3 +65,10 @@ layout: default
 
 　　总之，在2025年的埃塞俄比亚搞定一张手机卡，已经不再是充满未知的冒险。只要证件齐全，选择一家靠谱的运营商，十分钟后你就能重新与世界连接。这片古老的土地正在飞速变化，而一张小小的SIM卡，就是你感知这种变化的最佳窗口。
 　　<<<END_ARTICLE
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Ethiopia eSIM/流量卡价格与覆盖](https://azpetavircava.github.io/ethiopia-data-plans)
